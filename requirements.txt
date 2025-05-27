@@ -2,3 +2,4 @@ streamlit>=1.25
 tensorflow>=2.12
 numpy
 pandas
+scikit-learn>=1.2.2
